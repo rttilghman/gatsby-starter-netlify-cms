@@ -101,3 +101,5 @@ This plugin uses [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gats
 
 Contributions are always welcome, no matter how large or small. Before contributing,
 please read the [code of conduct](CODE_OF_CONDUCT.md).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/684f5cb1-5922-455f-acfa-7f723d3e1c1f/deploy-status)](https://app.netlify.com/sites/adoring-wiles-b3f3ed/deploys)
